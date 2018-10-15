@@ -1,9 +1,8 @@
-testing
-tttesteing,
-tttestt
-korv
-storv
-fjorv
-korv
-storv
-fjorv
+this
+is
+a
+test
+file
+with
+some 
+text
